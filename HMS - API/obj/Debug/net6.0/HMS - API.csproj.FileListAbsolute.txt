@@ -1,0 +1,32 @@
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\bin\Debug\net6.0\appsettings.json
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\bin\Debug\net6.0\HMS - API.exe
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\bin\Debug\net6.0\HMS - API.deps.json
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\bin\Debug\net6.0\HMS - API.runtimeconfig.json
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\bin\Debug\net6.0\HMS - API.dll
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\bin\Debug\net6.0\HMS - API.pdb
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\obj\Debug\net6.0\HMS - API.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\obj\Debug\net6.0\HMS - API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\obj\Debug\net6.0\HMS - API.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\obj\Debug\net6.0\HMS - API.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\obj\Debug\net6.0\HMS - API.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\obj\Debug\net6.0\HMS - API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\obj\Debug\net6.0\HMS - API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\obj\Debug\net6.0\staticwebassets\msbuild.HMS - API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\obj\Debug\net6.0\staticwebassets\msbuild.build.HMS - API.props
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HMS - API.props
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HMS - API.props
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\obj\Debug\net6.0\scopedcss\bundle\HMS - API.styles.css
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\obj\Debug\net6.0\HMS - API.csproj.CopyComplete
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\obj\Debug\net6.0\HMS - API.dll
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\obj\Debug\net6.0\refint\HMS - API.dll
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\obj\Debug\net6.0\HMS - API.pdb
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\obj\Debug\net6.0\HMS - API.genruntimeconfig.cache
+C:\Users\Decagon\source\repos\ASP Project\Hospital Management System\HMS - API\obj\Debug\net6.0\ref\HMS - API.dll
