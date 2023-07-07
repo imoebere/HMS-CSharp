@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Numerics;
-using System.Text;
-using System.Threading.Tasks;
+﻿using HMS_DATA.Enum;
+using System;
+
 
 namespace HMS_DATA.Entities
 {
