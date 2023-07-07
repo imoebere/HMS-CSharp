@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -17,5 +18,7 @@ namespace HMS_DATA.Entities
         public string InsuranceDetails { get; set; }
         [Required]
         public string EmergencyContact { get; set; }
+        [Required]
+        public string Card_No { get; set; }
     }
 }
