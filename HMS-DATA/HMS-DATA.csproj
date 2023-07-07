@@ -8,7 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Context\" />
     <Folder Include="DTO\" />
     <Folder Include="MapperProfile\" />
     <Folder Include="Repository\" />
